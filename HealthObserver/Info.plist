@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> NSHealthUpdateUsageDescription </key>
+	<string>This app access to update description data</string>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>com.kbs.health.upload</string>
+	</array>
+	<key>NSURLSessionConfigurationBackgroundSessionIdentifiers</key>
+	<string>com.kbs.health.bg.upload</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+		<string>processing</string>
+		<string>fetch</string>
+	</array>
+</dict>
+</plist>
