@@ -129,7 +129,7 @@ MIT License — feel free to use this project in your own applications.
 ## 👨‍💻 Author
 
 Shailendra Kumar Yadav
-Senior Mobile App Developer – iOS / Flutter / Android
+Senior Mobile App Developer – iOS / Flutter 
 8+ years experience in mobile application development.
 
 ---
