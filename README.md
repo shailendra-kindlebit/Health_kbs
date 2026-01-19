@@ -109,7 +109,7 @@ Background URLSession Upload
   "timestamp": 1704789200
 }
 ```
-screenshots/Screenshot 2026-01-09 at 1.33.02 PM.png
+![alt text](screenshots/Screenshot 2026-01-09 at 1.33.02 PM.png)
 
 ## ⚠️ Limitations
 
