@@ -109,8 +109,7 @@ Background URLSession Upload
   "timestamp": 1704789200
 }
 ```
-https://github.com/shailendra-kindlebit/Health_kbs/tree/main/screenshots
----
+![App Home Screen](screenshots/Screenshot 2026-01-09 at 1.33.02 PM.png)
 
 ## ⚠️ Limitations
 
