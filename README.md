@@ -109,7 +109,11 @@ Background URLSession Upload
   "timestamp": 1704789200
 }
 ```
-![alt text](screenshots/Screenshot 2026-01-09 at 1.33.02 PM.png)
+![alt text](Health_kbs/screenshots/Screenshot%202026-01-09%20at%201.33.02%20PM.png)
+## Screenshots
+
+![App Screenshot](Health_kbs/screenshots/Screenshot%202026-01-09%20at%201.33.02%20PM.png)
+
 
 ## ⚠️ Limitations
 
