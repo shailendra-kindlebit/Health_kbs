@@ -109,7 +109,11 @@ Background URLSession Upload
   "timestamp": 1704789200
 }
 ```
-![App Screenshot](screenshots/Screenshot%202026-01-09%20at%201.33.02%20PM.png)
+# HealthObserver
+
+## App Preview
+
+![App Preview](screenshots/apppreview.png)
 
 ## ⚠️ Limitations
 
