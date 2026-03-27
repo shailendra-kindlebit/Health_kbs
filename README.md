@@ -113,7 +113,7 @@ Background URLSession Upload
 
 ## App Preview
 
-![App Preview](screenshots/apppreview.png)
+![Health_kbs](screenshots/apppreview.png)
 
 ## ⚠️ Limitations
 
