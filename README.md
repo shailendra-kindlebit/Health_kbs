@@ -58,7 +58,7 @@ Enable the following in Xcode:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/HealthObserver.git
+git clone https://github.com/shailendra-kindlebit//HealthObserver.git
 cd HealthObserver
 ```
 
@@ -109,11 +109,7 @@ Background URLSession Upload
   "timestamp": 1704789200
 }
 ```
-![alt text](Health_kbs/screenshots/Screenshot%202026-01-09%20at%201.33.02%20PM.png)
-## Screenshots
-
-![App Screenshot](Health_kbs/screenshots/Screenshot%202026-01-09%20at%201.33.02%20PM.png)
-
+![App Screenshot](screenshots/Screenshot%202026-01-09%20at%201.33.02%20PM.png)
 
 ## ⚠️ Limitations
 
